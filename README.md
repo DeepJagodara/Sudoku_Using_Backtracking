@@ -86,4 +86,8 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 
 ---
 
+<<<<<<< HEAD
 Enjoy playing! 🎮
+=======
+Enjoy playing! 🎮
+>>>>>>> 88bc8fb (First commit - added my project)
